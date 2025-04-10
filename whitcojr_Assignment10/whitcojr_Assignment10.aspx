@@ -81,7 +81,7 @@
     </p>
 
            <img src="whitcojr_assignment02photo.jpg" alt="Me and my Teammate Carson">
-          <span style='font-size:100px;'>&#129351;</span>
+          <span style='font-size:100px;'>&#129351;</span> 
         </div>
     </form>
 </body>
